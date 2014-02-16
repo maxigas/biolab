@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Calafou Biolab</title><link href="http://biolab.tachanka.org/" rel="alternate"></link><link href="http://biolab.tachanka.org/feeds/all.atom.xml" rel="self"></link><id>http://biolab.tachanka.org/</id><updated>2014-02-15T00:00:00+01:00</updated><entry><title>foo title</title><link href="http://biolab.tachanka.org/foo-title.html" rel="alternate"></link><updated>2014-02-15T00:00:00+01:00</updated><author><name>maxigas</name></author><id>tag:biolab.tachanka.org,2014-02-15:foo-title.html</id><summary type="html">&lt;p&gt;Write an entry here.  One two three.&lt;/p&gt;
-&lt;h1&gt;headline&lt;/h1&gt;
-&lt;h2&gt;headline&lt;/h2&gt;
-&lt;p&gt;ewfewfew &lt;em&gt;emphasis&lt;/em&gt;  efewfewfwefew &lt;strong&gt;strong&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://example.org/"&gt;link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;here is a &lt;a href="{filename}/../images/example.jpg"&gt;link&lt;/a&gt; ewfwefewfewfew &lt;a href="http://example.org/"&gt;link2&lt;/a&gt; efe wf wef we fwe few &lt;/p&gt;
-&lt;p&gt;wfewfwefew
-ew
-wfwe
-few
-fwe&lt;/p&gt;
-&lt;p&gt;![caption]&lt;/p&gt;</summary><category term="foo bar baz"></category></entry><entry><title>Prodecure for melting agar and subculturing</title><link href="http://biolab.tachanka.org/prodecure-for-melting-agar-and-subculturing.html" rel="alternate"></link><updated>2013-11-05T22:00:00+01:00</updated><author><name>maxigas</name></author><id>tag:biolab.tachanka.org,2013-11-05:prodecure-for-melting-agar-and-subculturing.html</id><summary type="html">&lt;p&gt;&lt;em&gt;status&lt;/em&gt;: &lt;strong&gt;experimental&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Calafou Biolab</title><link href="http://biolab.tachanka.org/" rel="alternate"></link><link href="http://biolab.tachanka.org/feeds/all.atom.xml" rel="self"></link><id>http://biolab.tachanka.org/</id><updated>2013-11-05T22:00:00+01:00</updated><entry><title>Prodecure for melting agar and subculturing</title><link href="http://biolab.tachanka.org/prodecure-for-melting-agar-and-subculturing.html" rel="alternate"></link><updated>2013-11-05T22:00:00+01:00</updated><author><name>maxigas</name></author><id>tag:biolab.tachanka.org,2013-11-05:prodecure-for-melting-agar-and-subculturing.html</id><summary type="html">&lt;p&gt;&lt;em&gt;status&lt;/em&gt;: &lt;strong&gt;experimental&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Melt Agar&lt;/h2&gt;
 &lt;p&gt;Agars is a neutral medium to grow things in petri dishes.  It is normally like a gel, and it needs to be heated above 40℃ to melt.  When melted, it can be poured in petri dishes to prepare them for culturing.  The petri dish can be used when the agar geled (solidified).&lt;/p&gt;
 &lt;p&gt;Needs:&lt;/p&gt;
