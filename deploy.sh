@@ -3,5 +3,5 @@
 git add *
 git commit -m deploy.sh
 git push
-ssh biolab@biolab git clone https://github.com/maxigas/biolab.git
+ssh biolab@biolab git pull
 echo READY
