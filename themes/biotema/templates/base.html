@@ -37,15 +37,15 @@
                 </ul></nav>
         </header>
         
-        hello theme
+        <!-- hello theme -->
 
-                {% if lang_siteurls %}
-                {% for lang, siteurl in lang_siteurls.items() %}
-                    <li{% if lang == DEFAULT_LANG %} class="active"{% endif %}><a href="{{ siteurl }}">{{ lang | lookup_lang_name }}</a></li>
-                {% endfor %}
-                    <!-- separator -->
-                    <li style="background-color: white; padding: 5px;">&nbsp</li>
-                {% endif %}
+        <!--         {% if lang_siteurls %} -->
+        <!--         {% for lang, siteurl in lang_siteurls.items() %} -->
+        <!--             <li{% if lang == DEFAULT_LANG %} class="active"{% endif %}><a href="{{ siteurl }}">{{ lang | lookup_lang_name }}</a></li> -->
+        <!--         {% endfor %} -->
+        <!--             <\!-- separator -\-> -->
+        <!--             <li style="background-color: white; padding: 5px;">&nbsp</li> -->
+        <!--         {% endif %} -->
 
         <!-- /#banner -->
         {% block content %}
