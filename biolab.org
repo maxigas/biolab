@@ -10,12 +10,11 @@
 **** software
 **** mounting
 *** incubator
-**** TODO buy coffee machine
+**** TODO coffee pot -- the smallest one!
 **** TODO programable thermostate
 **** TODO thermic resistor 20 ohm
 **** TODO thermic sensor
 **** TODO transformer 230 → 12 V
-**** TODO coffee pot -- the smallest one!
 **** TODO display?
 *** microbes
 *** water
@@ -27,4 +26,7 @@
 **** TODO add logo to theme
 **** TODO add social links
 **** TODO reorganise category displays?
+**** TODO turn off syntax highlighting of literal blocks!
 ** PLANNED
+*** microscopy
+

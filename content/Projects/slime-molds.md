@@ -26,3 +26,18 @@ We had two iterations so far and working on a third:
 
 [“room temperature”]: http://en.wikipedia.org/wiki/Room_temperature
 
+# Literature
+
+ * **Introduction to Physarum Kit**: came with the kit.  Basic.
+ * **Handbook of Slime Molds**: look like essential reference.
+
+# Supplies
+
+The best known source is the **Carolina** biological supply company in the US, which sells kits.  We ordered to of these kits, but through a supplier in Madrid:
+
+    PSYMTEC MATERIAL TECNICO S.L.
+    C/ Cazalegas nº 5, Local
+    (entrada por C/ Ugena)
+    28025 MADRID
+    Tlf. 91 341 16 21 / 91 341 71 95
+    Fax. 91 746 41 95
