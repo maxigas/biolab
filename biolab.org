@@ -1,0 +1,30 @@
+*Biolab*
+
+* Projects
+** COMPLETED
+** ONGOING
+*** slime molds
+*** remeye
+**** raspberry pi
+**** webcam
+**** software
+**** mounting
+*** incubator
+**** TODO buy coffee machine
+**** TODO programable thermostate
+**** TODO thermic resistor 20 ohm
+**** TODO thermic sensor
+**** TODO transformer 230 → 12 V
+**** TODO coffee pot -- the smallest one!
+**** TODO display?
+*** microbes
+*** water
+*** infrastructure
+**** TODO bring the halogen light!
+*** website
+**** TODO install gallery plugin
+**** TODO fix google dependency in the theme
+**** TODO add logo to theme
+**** TODO add social links
+**** TODO reorganise category displays?
+** PLANNED

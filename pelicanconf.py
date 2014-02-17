@@ -18,14 +18,16 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Calafou', 'https://calafou.org/'),
+         ('Hackteria', 'https://hackteria.org/'),
+         ('Paula Pin', 'http://jellypin.hotglue.me/'),
+         ('DIY bio', 'http://diybio.org/'),
+         ('Biohackspace', 'http://biohackspace.org/'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('', '#'),
+          ('', '#'),)
 
 DEFAULT_PAGINATION = False
 
