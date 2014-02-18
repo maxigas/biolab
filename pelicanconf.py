@@ -26,8 +26,8 @@ LINKS = (('Calafou', 'https://calafou.org/'),
 )
 
 # Social widget
-SOCIAL = (('', '#'),
-          ('', '#'),)
+SOCIAL = (('Old homepage', 'http://biofou.vacau.com/'),
+)
 
 DEFAULT_PAGINATION = False
 

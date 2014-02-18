@@ -91,7 +91,7 @@ ssh_upload: publish
 
 git_upload: publish
 	git add *
-	git commit -m deploy.sh
+	git commit -m "`cat commit.msg`"
 	git push
 	ssh biolab@biolab git pull
 	echo READY

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Calafou Biolab</title><link href="http://biolab.tachanka.org/en/" rel="alternate"></link><link href="http://biolab.tachanka.org/feeds/projects.atom.xml" rel="self"></link><id>http://biolab.tachanka.org/en/</id><updated>2014-02-17T00:00:00+01:00</updated><entry><title>Incubator</title><link href="http://biolab.tachanka.org/en/incubator.html" rel="alternate"></link><updated>2014-02-17T00:00:00+01:00</updated><author><name>maxigas</name></author><id>tag:biolab.tachanka.org/en,2014-02-17:incubator.html</id><summary type="html">&lt;p&gt;We need an incubator for almost all our projects (slime molds, forest microbes and water quality measurement).  So this is the first piece of equipment that we try to build for the Biolab.  We discussed the designa and started to acquire the materials.&lt;/p&gt;
+&lt;p&gt;Paula Pin suggested this design:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://biodesign.cc/2013/12/25/diy-incubator/"&gt;Design A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Biopablo suggested this design:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=LZ9WLnCAd1M"&gt;Design B&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We will try to combine these two designs for something appropriate to our needs and the materials we have.&lt;/p&gt;</summary><category term="ongoing"></category></entry><entry><title>Measuring water quality</title><link href="http://biolab.tachanka.org/en/water-quality.html" rel="alternate"></link><updated>2014-02-17T00:00:00+01:00</updated><author><name>maxigas</name></author><id>tag:biolab.tachanka.org/en,2014-02-17:water-quality.html</id><summary type="html">&lt;p&gt;The &lt;a href="http://biolab.tachanka.org/"&gt;Biolab&lt;/a&gt; is located in &lt;a href="https://calafou.org/"&gt;Calafou&lt;/a&gt;, an Eco-industrial Post-capitalist Colony.  &lt;a href="https://calafou.org/"&gt;Calafou&lt;/a&gt; is part of the &lt;a href="https://cooperativa.cat/en/"&gt;Cooperativa Integral Catalana&lt;/a&gt; (CIC), an umbrella organisation for cooperatives which seeks to fulfill all human needs through collaborative production.  The role of &lt;a href="https://calafou.org/"&gt;Calafou&lt;/a&gt; in the CIC is mainly grassroots technology research and development and industrial production.&lt;/p&gt;
+&lt;p&gt;The CIC recently identified a need for measuring the water quality within its various projects.  Therefore, the Calafou Biolab is making a proposal to fulfill such need by developing the capacity for water quality measurements, which we could offer as a service to the CIC and beyond.  We have made the initial research and started to build the basic equipment, while we are waiting for the CIC to discuss our proposal.&lt;/p&gt;
+&lt;p&gt;More information on the Spanish version of this entry.&lt;/p&gt;</summary><category term="bootstrap"></category></entry><entry><title>Slime mold farming and the biological computer</title><link href="http://biolab.tachanka.org/en/slime-molds.html" rel="alternate"></link><updated>2014-02-16T00:00:00+01:00</updated><author><name>maxigas</name></author><id>tag:biolab.tachanka.org/en,2014-02-16:slime-molds.html</id><summary type="html">&lt;p&gt;Since the last three months we have been keeping and subculturing slime molds in the Biolab.  We are working according to a roadmap with the eventual goal to develop a biological computer.  There is a “white paper”&lt;/p&gt;
+&lt;h1&gt;Current status&lt;/h1&gt;
+&lt;p&gt;We have various problems:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;all our cultures are contaminated;&lt;/li&gt;
+&lt;li&gt;we haven’t seen the slime molds move;&lt;/li&gt;
+&lt;li&gt;they don’t really look like the pictures on the Internet. :)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We think that this is mainly due to the humidity and cold we had in the winter.  The temperature was around 7℃ and since there is a river flowing around and under our building, a lot of humidity.  We are addressing this by building an incubator which can maintain the proverbial &lt;a href="http://en.wikipedia.org/wiki/Room_temperature"&gt;“room temperature”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We had two iterations so far and working on a third:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Plastic barell with water tank heated by aquarium heater.  &lt;em&gt;Total failure.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Fridge with water tank heated by aquarium heater.  We can maintain 14℃ in this contraption which is &lt;em&gt;not enough&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;The third design is should be soon described here soon.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Literature&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to Physarum Kit&lt;/strong&gt;: came with the kit.  Basic.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Handbook of Slime Molds&lt;/strong&gt;: look like essential reference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Supplies&lt;/h1&gt;
+&lt;p&gt;The best known source is the &lt;strong&gt;Carolina&lt;/strong&gt; biological supply company in the US, which sells kits.  We ordered to of these kits, but through a supplier in Madrid:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;PSYMTEC&lt;/span&gt; &lt;span class="n"&gt;MATERIAL&lt;/span&gt; &lt;span class="n"&gt;TECNICO&lt;/span&gt; &lt;span class="n"&gt;S&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;L&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
+&lt;span class="n"&gt;C&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;Cazalegas&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="err"&gt;º&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Local&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;entrada&lt;/span&gt; &lt;span class="n"&gt;por&lt;/span&gt; &lt;span class="n"&gt;C&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;Ugena&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="mi"&gt;28025&lt;/span&gt; &lt;span class="n"&gt;MADRID&lt;/span&gt;
+&lt;span class="n"&gt;Tlf&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="mi"&gt;91&lt;/span&gt; &lt;span class="mi"&gt;341&lt;/span&gt; &lt;span class="mi"&gt;16&lt;/span&gt; &lt;span class="mi"&gt;21&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="mi"&gt;91&lt;/span&gt; &lt;span class="mi"&gt;341&lt;/span&gt; &lt;span class="mi"&gt;71&lt;/span&gt; &lt;span class="mi"&gt;95&lt;/span&gt;
+&lt;span class="n"&gt;Fax&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt; &lt;span class="mi"&gt;91&lt;/span&gt; &lt;span class="mi"&gt;746&lt;/span&gt; &lt;span class="mi"&gt;41&lt;/span&gt; &lt;span class="mi"&gt;95&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="bootstrapping"></category></entry></feed>
