@@ -1,1 +1,1 @@
-Tried to add logo to theme, testing.
+Fitted logo quite well.

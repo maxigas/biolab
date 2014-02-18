@@ -19,8 +19,7 @@
 <body id="index" class="home">
 {% include 'github.html' %}
         <header id="banner" class="body">
-          <img src="http://biolab.tachanka.org/files/logo.png" width="46" height="50">
-                <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+                <h1><a href="{{ SITEURL }}/"><img style="margin-right: 10px;" src="http://biolab.tachanka.org/files/logo.png" width="46" height="50">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
                 <nav><ul>
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
