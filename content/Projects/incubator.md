@@ -36,9 +36,9 @@ Acquired:
     + timer
     + digital readout of target and current temperature
 
-[Velleman K2649](http://www.quasarelectronics.co.uk/Item/velleman-k2649-thermostat-with-lcd-kit)
+[Velleman K2649]: http://www.quasarelectronics.co.uk/Item/velleman-k2649-thermostat-with-lcd-kit
 
-[manual](http://www.velleman.eu/downloads/0/illustrated/illustrated_assembly_manual_k2649.pdf)
+[manual]: http://www.velleman.eu/downloads/0/illustrated/illustrated_assembly_manual_k2649.pdf
 
 Needed:
 
