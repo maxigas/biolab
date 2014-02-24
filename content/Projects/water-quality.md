@@ -18,4 +18,12 @@ More information on the Spanish version of this entry.
 
 [Cooperativa Integral Catalana]: https://cooperativa.cat/en/
 
+# Parts
+
+Acquired:
+
+ * 5€ coffee pot, smallest diameter 5cm
+ * 0€ FIXME elastic pump
+ * 0€ pen
+ * FIXME
 
